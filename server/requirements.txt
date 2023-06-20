@@ -1,0 +1,4 @@
+flask==2.1.1
+langchain==0.0.144  # Add the appropriate version number
+pinecone-client
+firebase-admin==6.1.0
